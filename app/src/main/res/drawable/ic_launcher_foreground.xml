@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- সাময়িক আইকন ("J" অক্ষর)। নিজের লোগো দিয়ে বদলাতে Android Studio: File > New > Image Asset -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M48,34 L70,34 M60,34 L60,62 C60,72 52,77 45,74" />
+</vector>

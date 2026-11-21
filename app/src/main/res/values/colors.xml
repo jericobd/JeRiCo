@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- আপনার ব্র্যান্ডের মূল রঙ এখানে বদলে নিন -->
+    <color name="brand">#1A56DB</color>
+    <color name="brand_dark">#1445AE</color>
+    <color name="icon_background">#1A56DB</color>
+</resources>

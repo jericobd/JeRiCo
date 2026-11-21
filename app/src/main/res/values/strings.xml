@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JeRiCo</string>
+    <string name="downloading">ডাউনলোড শুরু হয়েছে…</string>
+    <string name="no_app_found">এই লিংক খোলার মতো কোনো অ্যাপ পাওয়া যায়নি</string>
+</resources>
